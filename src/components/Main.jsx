@@ -5,7 +5,7 @@ import Aside from './Aside'
 function Main() {
   return (
     <div className='max-w-screen-xl mx-auto'>
-      <section className='grid grid-cols-3 gap-6'>
+      <section className='grid xl:grid-cols-3 gap-6'>
         <div className="col-span-2">
           <div className="relative ">
           {/* Image Div */}
